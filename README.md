@@ -1,4 +1,4 @@
-# Diwali_Sales_Analysis
+# Diwali Sales Analysis
 
 The Diwali Sales Analysis Project aims to analyze sales data from the Diwali festival season. The project involves data cleaning, Exploratory Data Analysis (EDA), and visualization of key insights related to customer demographics and product categories.
 
